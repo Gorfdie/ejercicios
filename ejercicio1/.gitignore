@@ -1,0 +1,12 @@
+# Mac OS
+.DS_Store
+
+# Eclipse project file
+.settings/
+.classpath
+.project
+bin/
+
+#Idea project file
+.idea
+out/
